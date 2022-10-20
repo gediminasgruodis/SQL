@@ -1,4 +1,4 @@
-USE Budget
+USE Database
 
 SELECT *
   INTO  [Table 3]
