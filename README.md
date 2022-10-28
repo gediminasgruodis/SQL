@@ -1,3 +1,3 @@
 # SQL
 
-Useful SQL scripts
+Various SQL scripts for further usage
