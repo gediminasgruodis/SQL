@@ -1,4 +1,4 @@
-USE Database 1
+USE [Database 1]
 
 SELECT *
 INTO [Database 1].[dbo].[Table]
