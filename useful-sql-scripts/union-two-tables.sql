@@ -1,4 +1,4 @@
-USE Database
+USE [Database]
 
 SELECT *
   INTO  [Table 3]
