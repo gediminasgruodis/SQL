@@ -4,7 +4,7 @@ Welcome to the Database Development Projects repository! This repository is dedi
 
 ## SQL Scripts
 
-The "sql-scripts" folder contains a collection of SQL scripts for various database development tasks, such as database creation, table schema definition, stored procedures, views, and data manipulation scripts.
+The "useful-sql-scripts" folder contains a collection of SQL scripts for various database development tasks, such as database creation, table schema definition, stored procedures, views, and data manipulation scripts.
 
 ## SSIS Projects
 
